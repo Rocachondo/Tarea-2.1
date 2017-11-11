@@ -1,3 +1,9 @@
+body {background-color: #bb3d1a;}
+
+h1 {color: #1a98bb; text-align: center;}
+
+p {font-family: arial; color: #0c72f3; font-size: 20px;}
+
 /* Colores */
 
 .color-1 {color: #bb3d1a;}
@@ -6,9 +12,3 @@
 .color-4 {color: #f38d0c;}
 .color-5 {color: #fcae09;}
 .color-6 {color: #fc3409;}
-
-body {background-color: #bb3d1a;}
-
-h1 {color: #1a98bb; text-align: center;}
-
-p {font-family: arial; color: #0c72f3; font-size: 20px;}
