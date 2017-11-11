@@ -7,8 +7,8 @@ Colores
 .color-5 {color: #fcae09;}
 .color-6 {color: #fc3409;}
 
-body {background-color: #bb3d1a;}
+body {background-color: color-1;}
 
-h1 {color: #1a98bb; text-align: center;}
+h1 {color: color-2; text-align: center;}
 
-p {font-family: arial; color: #0c72f3; font-size: 20px;}
+p {font-family: arial; color: color-3; font-size: 20px;}
