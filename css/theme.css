@@ -50,8 +50,9 @@ img {
   margin: auto;
 }
 
-p.border {
-  border: 3px #EC3706;
+.border {
+  border: 3px;
+  border-color: #EC3706;
   text-align: center;
 }
 
