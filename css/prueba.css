@@ -1,16 +1,16 @@
-body {background-color: #1A98BB;}
+body {background-color: #2D3336;}
 
-h1 {color: #BB3D1A; text-align: center;}
-h2 {color: #FC3409;}
-h3 {color: #FCAE09;}
+h1 {color: #F1822B; text-align: center;}
+h2 {color: #EC3706;}
+h3 {color: #7B85C8;}
 
-p {font-family: arial; color: #0C72F3; font-size: 20px;}
+p {font-family: arial; color: #C9CFD3; font-size: 20px;}
 
 /* Colores */
 
-.color-1 {color: #bb3d1a;}
-.color-2 {color: #1a98bb;}
-.color-3 {color: #0c72f3;}
-.color-4 {color: #f38d0c;}
-.color-5 {color: #fcae09;}
+.color-1 {color: #2D3336;} /* FONDO OSCURO */
+.color-2 {color: #C9CFD3;} /* GRIS LETRAS */
+.color-3 {color: #F1822B;} /* NARANJA */
+.color-4 {color: #EC3706;} /* ROJILLO */
+.color-5 {color: #7B85C8;} /* LILA */
 .color-6 {color: #fc3409;}
