@@ -18,6 +18,7 @@ h2 {
 
 h3 {
   color: #7B85C8;
+  border: 3px solid #7B85C8
   text-align: center;
   font-size: 28px;
 }
@@ -54,9 +55,18 @@ ol {color: #C9CFD3;}
 
 ul {color: #C9CFD3;}
 
-table, th, td {font-family: arial; font-size: 20px;border-collapse: collapse; border: 1px solid black; color: #7B85C8}
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  color: #7B85C8
+}
+
 tr:nth-child(even){background-color: #C9CFD3}
-th {background-color: #EC3706; color: white;}
+
+th {
+  background-color: #EC3706;
+  color: white;
+}
 
 /* Colores */
 
