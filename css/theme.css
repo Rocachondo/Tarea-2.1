@@ -51,9 +51,8 @@ img {
 }
 
 p.border {
-  border-style: solid;
-  border-width: 3px;
-  color: #EC3706
+  border: 3px #EC3706;
+  text-align: center;
 }
 
 ol {color: #C9CFD3;}
