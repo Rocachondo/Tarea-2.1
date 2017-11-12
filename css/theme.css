@@ -12,6 +12,10 @@ img {position: relative;}
 
 div {max-width: 600px; margin: auto;}
 
+.container {position: relative;}
+
+.center {position: absolute; text-align: center;}
+
 ol {font-family: arial; color: #C9CFD3; font-size: 20px;}
 ul {font-family: arial; color: #C9CFD3; font-size: 20px;}
 
