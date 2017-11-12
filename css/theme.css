@@ -10,11 +10,11 @@ a:link {font-family: arial; color: #EC3706; font-size: 20px; text-decoration: no
 
 <!img {position: relative;}>
 
-div {max-width: 600px; margin: auto;}
+div {margin: auto;}
 
 .container {position: relative; text-align: center;}
 
-.center {position: absolute; text-align: center;}
+.center {position: relative; text-align: center; max-width: 600px}
 
 ol {font-family: arial; color: #C9CFD3; font-size: 20px;}
 ul {font-family: arial; color: #C9CFD3; font-size: 20px;}
