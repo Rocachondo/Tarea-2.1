@@ -51,6 +51,8 @@ img {
 }
 
 .border {
+  position: relative;
+  margin: auto;
   border: 3px;
   border-color: #EC3706;
   text-align: center;
