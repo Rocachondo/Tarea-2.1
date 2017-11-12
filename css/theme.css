@@ -27,6 +27,14 @@ p {
   font-size: 20px;
 }
 
+p.hidden {
+  display: none;
+}
+  
+div:hover p.hidden {
+    display: block;
+}
+
 a:link {
   color: #EC3706;
   font-size: 20px;
@@ -48,14 +56,6 @@ img {
   text-align: center;
   max-width: 600px;
   margin: auto;
-}
-
-p.border {
-  position: relative;
-  margin: auto;
-  border: 3px;
-  border-color: #EC3706;
-  text-align: center;
 }
 
 ol {color: #C9CFD3;}
@@ -82,4 +82,3 @@ th {
 .color-3 {color: #F1822B;} /* NARANJA */
 .color-4 {color: #EC3706;} /* ROJILLO */
 .color-5 {color: #7B85C8;} /* LILA */
-.color-6 {color: #fc3409;}
