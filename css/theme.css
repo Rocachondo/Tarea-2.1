@@ -1,36 +1,58 @@
 body {
   background-color: #2D3336;
   font-family: arial;
+  font-size: 20px;
 }
 
 h1 {
   color: #F1822B;
   text-align: center;
+  font-size: 40px;
+}
+
+h2 {
+  color: #EC3706;
+  text-align: center;
   font-size: 32px;
 }
-h2 {
-  font-family: arial;
-  color: #EC3706;
+
+h3 {
+  color: #7B85C8;
+  text-align: center;
   font-size: 28px;
 }
-h3 {
-  font-family: arial;
-  color: #7B85C8; 
-  font-size: 24px;
+
+p {
+  color: #C9CFD3;
+  font-size: 20px;
 }
 
-p {font-family: arial; color: #C9CFD3; font-size: 20px;}
+a:link {
+  color: #EC3706;
+  font-size: 20px;
+  text-decoration: none;
+}
 
-a:link {font-family: arial; color: #EC3706; font-size: 20px; text-decoration: none;}
+img {
+  display: block;
+  margin: auto;
+}
 
-img {display: block; margin: auto;}
+.container {
+  position: relative;
+  margin: auto;
+}
 
-.container {position: relative; margin: auto;}
+.center {
+  position: relative;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
 
-.center {position: relative; text-align: center; max-width: 600px; margin: auto;}
+ol {color: #C9CFD3;}
 
-ol {font-family: arial; color: #C9CFD3; font-size: 20px;}
-ul {font-family: arial; color: #C9CFD3; font-size: 20px;}
+ul {color: #C9CFD3;}
 
 table, th, td {font-family: arial; font-size: 20px;border-collapse: collapse; border: 1px solid black; color: #7B85C8}
 tr:nth-child(even){background-color: #C9CFD3}
