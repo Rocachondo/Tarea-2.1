@@ -18,7 +18,6 @@ h2 {
 
 h3 {
   color: #7B85C8;
-  border: 3px solid #7B85C8
   text-align: center;
   font-size: 28px;
 }
@@ -48,6 +47,11 @@ img {
   position: relative;
   text-align: center;
   max-width: 600px;
+  margin: auto;
+}
+
+.border {
+  border: 1px solid #7B85C8
   margin: auto;
 }
 
