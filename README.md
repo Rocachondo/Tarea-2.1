@@ -1,5 +1,7 @@
 # Tarea-2.1
 
+Enlace a rawgit: https://rawgit.com/Rocachondo/Tarea-2.1/master/index.html
+
 Pasos seguidos en la tarea:
 - Se escojen unos colores para el tema de la web y se aplican en fuentes, cabeceras, fondo y la tabla.
 - Se modifica los links para que no sean por defecto
